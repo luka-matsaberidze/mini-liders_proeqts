@@ -1,1 +1,0 @@
-"# mini-liders_proeqts" 
